@@ -1,4 +1,4 @@
-# Alpine Starter
+# Alpine Starter.
 
 Starter template for [Alpine](https://alpine.nuxt.space).
 
